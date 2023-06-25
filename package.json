@@ -17,8 +17,5 @@
     "turkey"
   ],
   "author": "Emre Tanrıverdi",
-  "license": "MIT",
-  "dependencies": {
-    "soap": "^1.0.0"
-  }
+  "license": "MIT"
 }
